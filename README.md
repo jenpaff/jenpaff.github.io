@@ -1,1 +1,0 @@
-# moinworld-python-summer-camp
